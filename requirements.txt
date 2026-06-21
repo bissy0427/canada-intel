@@ -22,11 +22,6 @@ psycopg2-binary==2.9.9
 google-genai==0.3.0
 
 # =========================
-# VECTOR SEARCH (RAG)
-# =========================
-faiss-cpu==1.8.0
-
-# =========================
 # ENV MANAGEMENT
 # =========================
 python-dotenv==1.0.1
