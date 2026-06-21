@@ -2,7 +2,7 @@
 # CORE APP
 # =========================
 streamlit==1.36.0
-pandas==2.1.4
+pandas==2.2.2
 numpy==1.26.4
 
 # =========================
@@ -14,7 +14,7 @@ yfinance==0.2.43
 # DATABASE (POSTGRES)
 # =========================
 sqlalchemy==2.0.32
-psycopg2-binary==2.9.9
+psycopg2-binary==2.9.10
 
 # =========================
 # AI / LLM (GOOGLE GEMINI)
